@@ -1,4 +1,4 @@
-# Sistema de Gestion Oncologica
+# S.I.G.O
 
 Manual operativo detallado para instalar, poner en marcha, validar y mantener el sistema en ambientes Windows (XAMPP) o Linux (Apache + PHP + MariaDB/MySQL).
 
